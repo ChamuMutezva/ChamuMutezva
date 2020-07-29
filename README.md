@@ -3,11 +3,11 @@
 
 ** I am a Frontend web developer through self learning. 
 The following are the languages that i speak
-a. `HTML and HTML5`
-b. `CSS and CSS3`
-c. `Javascript`
-d. `Angular`
-e.  `React`
+- `HTML and HTML5`
+- `CSS and CSS3`
+- `Javascript`
+- `Angular`
+-  `React`
 
 Here are some ideas to get you started:
 
