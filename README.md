@@ -9,7 +9,7 @@ The following are the languages that i speak
 - `Angular`
 -  `React`
 
-Here are some ideas to get you started:
+** Major highlights:
 
 - 🔭 I’m currently working on a Covid19 Stats App
 - 🌱 I’m currently learning React
