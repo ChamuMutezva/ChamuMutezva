@@ -1,7 +1,13 @@
 ### Hi there 👋
 
 <!--
-**ChamuMutezva/ChamuMutezva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** I am a Frontend web developer through self learning. 
+The following are the languages that i speak
+a. `HTML and HTML5`
+b. `CSS and CSS3`
+c. `Javascript`
+d. `Angular`
+e.  `React`
 
 Here are some ideas to get you started:
 
