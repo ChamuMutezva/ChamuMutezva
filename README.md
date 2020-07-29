@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 ** I am a Frontend web developer through self learning. 
 The following are the languages that i speak
 a. `HTML and HTML5`
@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
