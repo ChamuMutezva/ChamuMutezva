@@ -11,7 +11,7 @@ The following are the languages that i speak
 
 ** Major highlights:
 
-- 🔭 I’m currently working on a Covid19 Stats App
+- 🔭 I’m currently working on a Frontend Mentor Project - Designo Multipage website
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on React and Angular projects
 - 🤔 I’m looking for help with Angular Http 
