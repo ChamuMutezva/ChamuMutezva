@@ -11,11 +11,11 @@ The following are the languages that i speak
 
 ** Major highlights:
 
-- 🔭 I’m currently working on a Frontend Mentor Project - Designo Multipage website
+- 🔭 I’m currently working on a Frontend Mentor Project - Coffee-roasters website
 - 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on React and Angular projects
-- 🤔 I’m looking for help with Angular Http 
-- 💬 Ask me about Html, Css and Javascript
+- 👯 I’m looking to collaborate on Javascript, React and Angular projects
+- 🤔 I’m looking for help with creating accessible navigations and accordions
+- 💬 Ask me about Html, Css , Javascript and React
 - 📫 How to reach me: email `ckmutezva@gmail.com`
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: ...
