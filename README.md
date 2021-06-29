@@ -18,10 +18,10 @@ The following are the languages that i speak
 - 💬 Ask me about Html, Css , Javascript and React
 - 📫 How to reach me: email `ckmutezva@gmail.com`
 - 😄 Pronouns: He, Him
-- 
+ 
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2> 
+ <h2 align="center">My GitHub Statistics</h2> 
 </p>
 
 - [![Chamu Mutezva's github stats](https://github-readme-stats.vercel.app/api?username=ChamuMutezva&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
