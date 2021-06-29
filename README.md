@@ -19,7 +19,7 @@ The following are the languages that i speak
 - 📫 How to reach me: email `ckmutezva@gmail.com`
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: ...
-- [![Chamu Mutezva's github stats](https://github-readme-stats.vercel.app/api?username=ChamuMutezva)](https://github.com/anuraghazra/github-readme-stats)
+- [![Chamu Mutezva's github stats](https://github-readme-stats.vercel.app/api?username=ChamuMutezva&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
