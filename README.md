@@ -30,8 +30,8 @@
  <h2 align="center">My GitHub Statistics</h2> 
 </p>
 
-- [![Chamu Mutezva's github stats](https://github-readme-stats.vercel.app/api?username=ChamuMutezva&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamuMutezva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- [![Chamu Mutezva's github stats](https://github-readme-stats.vercel.app/api?username=ChamuMutezva&show_icons=true&theme=tokyonight)](https://github.com/ChamuMutezva/github-readme-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamuMutezva&layout=compact)](https://github.com/ChamuMutezva/github-readme-stats)
 
 
 <h3>Contact information</h3>
