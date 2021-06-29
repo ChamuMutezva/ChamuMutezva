@@ -3,8 +3,8 @@
 
 ** I am a Frontend web developer through self learning. 
 The following are the languages that i speak
-- `HTML and HTML5`
-- `CSS and CSS3`
+- `HTML5`
+- `CSS3`
 - `Javascript`
 - `Angular`
 -  `React`
@@ -19,7 +19,7 @@ The following are the languages that i speak
 - 📫 How to reach me: email `ckmutezva@gmail.com`
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: ...
-- [![Chamu Mutezva's github stats](https://github-readme-stats.vercel.app/api?username=ChamuMutezva&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+- [![Chamu Mutezva's github stats](https://github-readme-stats.vercel.app/api?username=ChamuMutezva&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
