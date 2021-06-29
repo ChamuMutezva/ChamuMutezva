@@ -19,4 +19,7 @@ The following are the languages that i speak
 - 📫 How to reach me: email `ckmutezva@gmail.com`
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: ...
+- ![Profile views](https://gpvc.arturio.dev/[ChamuMutezva])
+
+
 
