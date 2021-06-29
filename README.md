@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Chamunorwa, Frontend developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b> Zimbabwe</b>, currently living in <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> <b>Port Elizabeth, South Africa</b>. </p>
+<p>Welcome to my page! </br> I'm Chamunorwa, Frontend developer from "https://www.flaticon.com/free-icon/zimbabwe_330674" width="13"/> <b> Zimbabwe</b>, currently living in <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> <b>Port Elizabeth, South Africa</b>. </p>
 <h3>My coding tools:</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> 
