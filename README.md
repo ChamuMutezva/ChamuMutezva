@@ -28,8 +28,6 @@
 - 💬 Ask me about Html, Css , Javascript and React
 - 😄 Pronouns: He, Him
 
-<img src="https://github.com/ChamuMutezva/planets-fact-site/blob/master/images/stat.svg" alt="Planets fact site activity"/>
-<figure><embed src="https://wakatime.com/share/@a203e3d1-5347-4516-8a55-89c712a89474/261c4f4d-368f-4c10-bfc2-6c44275b62bc.svg"></embed></figure>
  
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
