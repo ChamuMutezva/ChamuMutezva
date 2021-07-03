@@ -26,8 +26,9 @@
 - 👯 I’m looking to collaborate on Javascript, React and Angular projects
 - 🤔 I’m looking for help with creating accessible navigations and accordions
 - 💬 Ask me about Html, Css , Javascript and React
-- 📫 How to reach me: email `ckmutezva@gmail.com`
+- 📫 How to reach me: email `ckmutezva@gmail.com` 
 - 😄 Pronouns: He, Him
+- 
  
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
@@ -40,6 +41,7 @@
 
 <h3>Contact information</h3>
 <p><a href="https://github.com/ChamuMutezva" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/ChamuMutezva" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/chamumutezva/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="ckmutezva@gmail.com" target="_blank"><img alt="email address" src="https://img.shields.io/badge/ckmutezva%40gmail.com-email-important" /></a> 
 </p>
 
 
