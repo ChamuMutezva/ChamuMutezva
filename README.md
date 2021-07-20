@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Chamunorwa, Frontend developer from  <b> Zimbabwe</b>, currently living in <b>Port Elizabeth, South Africa</b>. </p>
+<p>Welcome to my page! </br> I'm Chamunorwa, Frontend developer currently living in <b>Port Elizabeth, South Africa</b>. </p>
 <h3>My coding tools:</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> 
@@ -21,7 +21,7 @@
 </p>
 ** Major highlights:
 
-- 🔭 I’m currently working on a Frontend Mentor Project - Coffee-roasters website
+- 🔭 I’m currently working on a Frontend Mentor Project -  Planets-facts-site website
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Javascript, React and Angular projects
 - 🤔 I’m looking for help with creating accessible navigations and accordions
