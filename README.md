@@ -21,7 +21,7 @@
 </p>
 ** Major highlights:
 
-- 🔭 I’m currently working on a Frontend Mentor Project -  Planets-facts-site website
+- 🔭 I’m currently working on a Frontend Mentor Project -  Scoot multi-page website
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Javascript, React and Angular projects
 - 🤔 I’m looking for help with creating accessible navigations and accordions
