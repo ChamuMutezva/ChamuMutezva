@@ -21,9 +21,9 @@
 </p>
 ** Major highlights:
 
-- 🔭 I’m currently working on a Frontend Mentor Project -  Scoot multi-page website
+- 🔭 I’m currently working on a Frontend Mentor Project -  Minimalist portfolio website project
 - 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on Javascript, React and Angular projects
+- 👯 I’m looking to collaborate on HTML, CSS, Vanilla Javascript and React projects
 - 🤔 I’m looking for help with creating accessible navigations and accordions
 - 💬 Ask me about Html, Css , Javascript and React
 - 😄 Pronouns: He, Him
