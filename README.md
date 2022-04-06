@@ -19,7 +19,7 @@
 </p>
 ** Major highlights:
 
-- 🔭 I’m currently working on a Frontend Mentor Projects
+- 🔭 I’m currently working on Frontend Mentor Projects
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on HTML, CSS, Vanilla Javascript and React projects
 - 🤔 I’m looking for help with creating accessible navigations and accordions
