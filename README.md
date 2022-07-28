@@ -15,7 +15,7 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />  
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Vscode" src="https://img.shields.io/badge/-vs--code-informational?style=flat-square&logo=vs-code&logoColor=white" />
-  <img  alt="material-ui" src="https://img.shields.io/badge/-material--ui-blue />
+  <img  alt="material-ui" src="https://img.shields.io/badge/-material--ui-informational?style=flat-square&logo=material-ui&logoColor=white" />
   
 </p>
 ** Major highlights:
