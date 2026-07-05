@@ -28,16 +28,6 @@
 - 💬 Ask me about Html, Css , Javascript and React
 - 😄 Pronouns: He, Him
 
- 
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">My GitHub Statistics</h2> 
-</p>
-
-- [![Chamu Mutezva's github stats](https://github-readme-stats.vercel.app/api?username=ChamuMutezva&show_icons=true&theme=tokyonight)](https://github.com/ChamuMutezva/github-readme-stats)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamuMutezva&layout=compact)](https://github.com/ChamuMutezva/github-readme-stats)
-
-
 <h3>Contact information</h3>
 <p><a href="https://github.com/ChamuMutezva" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/ChamuMutezva" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/chamumutezva/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <img alt="email address" src="https://img.shields.io/badge/ckmutezva%40gmail.com-email-important" />
