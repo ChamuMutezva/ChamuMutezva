@@ -16,7 +16,8 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Vscode" src="https://img.shields.io/badge/-vs--code-informational?style=flat-square&logo=vs-code&logoColor=white" />
   <img  alt="material-ui" src="https://img.shields.io/badge/-material--ui-informational?style=flat-square&logo=material-ui&logoColor=white" />
-  
+  <img alt="Tailwind css" src="https://img.shields.io/badge/-Tailwind-E34F26?style=flat-square&logo=Tailwind&logoColor=white" />  
+  <img alt="Nextjs" src="https://img.shields.io/badge/-Nextjs-43853d?style=flat-square&logo=Nextjs&logoColor=white" />
 </p>
 ** Major highlights:
 
